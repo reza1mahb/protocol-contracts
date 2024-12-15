@@ -7,7 +7,7 @@ reviews:
     - "!v1/docs/**"
     - "!v2/docs/**"
     - "!v1/data/**"
-    - "!v2/data/**"
+    - "!v24524/data/**"
   path_instructions:
     - path: "contracts/**"
       instructions: >-
